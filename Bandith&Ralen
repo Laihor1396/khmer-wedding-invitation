@@ -1,0 +1,72 @@
+You are a senior creative developer and motion designer. Build a production-ready Khmer wedding e-invitation website (ធៀបការឌីជីថល) that guests open from a shared link, mostly inside Telegram or Messenger on phones. It must feel like the digital twin of our printed card: refined printed-card craft with modern, cinematic motion, never a generic "AI template". Reference of the finished quality: https://raksmey-pheakdey.vercel.app (study how it looks and moves; do not copy its names or photos).
+
+OUR DETAILS (ពាក្យក្នុង [ ] សូមប្តូរជាព័ត៌មានរបស់អ្នក)
+- Groom / កូនកំលោះ: [ពិសិដ្ឋ សុវណ្ណបណ្ឌិត] / [Pisith SovanBandith]
+- Bride / កូនក្រមុំ: [កុយ ម៉ារ៉ាឡែន] / [Koy Maralen]
+- Groom's parents: លោក [លោកប្រុស] និងលោកស្រី [Lok Bros]
+- Bride's parents: លោក [លោកស្រី] និងលោកស្រី [Lok Srey]
+- Date: [ថ្ងៃព្រហស្បតិ៍ទី31ខែធ្នូរឆ្នាំ២០២៦] + Khmer lunar date: [ត្រូវនឹងថ្ងៃព្រហស្បតិ៍ ៧រោច ខែមិគសិរ ឆ្នាំមមី អដ្ឋស័ក ពុទ្ធសករាជ ២៥៧០]
+- Ceremony programme with times: [កម្មវិធីទី១ ថ្ងៃពុធ ទី៣០ ខែធ្នូរ ឆ្នាំ២០២៦, ហែជំនូន 06:30,​ ម៉ោង ០៣:០០ រសៀល ពិធីសែនក្រុងពាលី, ម៉ោង ០៤:០០ រសៀល : ពិធីសូត្រមន្តចម្រើនព្រះបរិត្ត, ម៉ោង ០៥:០០ ល្ងាច : ពិធីជុំជុំពេល និងជាន់ខាន់ស្លា, ម៉ោង ០៦:៣០ ល្ងាច : អញ្ជើញភ្ញៀវកិត្តិយសពិសារអាហារពេលល្ងាច, កម្មវិធីទី២ ថ្ងៃអាទិត្យ ទី៣១ ខែធ្នូ ឆ្នាំ២០២៦, ម៉ោង ០៦:៣០ ព្រឹក : ជួបជុំភ្ញៀវកិត្តិយសដើម្បីរៀបចំហែជំនូន, ម៉ោង ០៧:០០ ព្រឹក : ពិធីហែជំនូនកំណត់ចូលរោងជ័យ, ម៉ោង ០៧:៣០ ព្រឹក : ពិធីចៅមហានិយាយជើងការ សែនព្រេន រៀបរាប់ផ្លែឈើនិងពិសារភោជនីយាហារពេលព្រឹក, ម៉ោង ០៨:០០ ព្រឹក : ពិធីបំពាក់ចិញ្ចៀន, ម៉ោង ០៩:០០ ព្រឹក : ពិធីកាត់សក់បង្កក់សិរី កូនប្រុស-កូនស្រី, ម៉ោង ១១:០០ ព្រឹក : ពិធីសំពះផ្ទឹមចងដៃ បង្វិលពពិល និងព្រះថោងតោងស្បៃ, ម៉ោង ១២:០០ ថ្ងៃត្រង់ : អញ្ជើញភ្ញៀវកិត្តិយសពិសារអាហារថ្ងៃត្រង់ បញ្ចប់កិច្ចអាពាហ៍ពិពាហ៍, ម៉ោង ០៤:០០ ល្ងាច : អញ្ជើញភ្ញៀវកិត្តិយសពិសារភោជនីយាហារ នៅគេហដ្ឋានខាងស្រី ដោយមេត្រីភាព ។ សូមអរគុណ !]
+- Venue: [អង្គតាសោម ខេត្តតាកែវ] · Google Maps pin: [https://maps.app.goo.gl/75yNtgqGDsFhR5Wc8]
+- Gift QR codes (optional): [attach KHQR / ABA images]
+- Pre-wedding photos: [https://drive.google.com/drive/folders/1MBQzugFLSOHOC9YZCxsfAad3gYesciIH?usp=sharing]
+- Printed card photo : [didn't have one yet]. Take the colour palette and decorative style from it (e.g. olive + gold foil, cream + rose gold, navy + silver).
+- Music (optional): [attach an mp3 you have the rights to]
+- Starter kit (optional, recommended): [attach khmer-invite-starter-kit.zip]. If attached, use its decorative element SVGs, wax seal, butterfly and paper textures instead of drawing your own; recolor the "g-foil" gradient and textures to match our card.
+- Color palette (optional): [Palette Blush & Rose Gold: paper #e9cfc6, deep #4a2a2a, foil #a8695a → #e0a995 → #f8e1d6, cream #fbf5f0, accent #b2455e]
+
+STYLE
+- Colors come from our printed card: one main paper color, a metallic foil (a gradient with a highlight, never flat yellow), cream, and a near-black for photo sections.
+- Materials must look real, not cartoon: generate tillable paper textures (fine grain + faint fibers, very low contrast, no cloudy blotches) for the envelope paper, the cream card and the flap lining. Use soft layered shadows and debossed decorative elements.
+- Decorative elements: draw your own original SVG elements (flowing leaf scrolls, a fan-shaped crest, soft curls) for corners, dividers and a crest. Keep them original and simply call them decorative elements; do not present them as any traditional or cultural pattern. No stock clipart, no cartoon drawings.
+- Fonts (Google Fonts / @fontsource): Moul for ceremonial headings, Moulpali for the couple's name logo, Kantumruy Pro for body, Cormorant Garamond + Pinyon Script for English. [or my choice: …]
+- Name logo (បណ្ធិត, រ៉ាឡែន): groom's short name top-left and bride's bottom-right in Moulpali gold foil, joined by a flourish line, a small heart and a butterfly, under a small decorative crest. Reuse it on the envelope flap, the inner card, the cover, the top bar and the thank-you section. Animate it: names reveal left to right, flourish draws, heart pops, butterfly flies in.
+
+KHMER TEXT RULES (very important)
+- Never render Khmer inside SVG <text>: vowel signs and subscripts land in the wrong place. Use HTML text layered over SVG elements.
+- background-clip:text (gold foil) only paints inside the box, so every foil Khmer element needs extra padding (about .3em top, .2em bottom) or the tops of ី ឹ and the subscripts get cut off.
+- Line-by-line reveal masks need padding top and bottom (about .4em) for the same reason.
+- clip-path reveals must use negative insets (e.g. inset(-40% 110% -40% -10%) → inset(-40% -10% -40% -10%)) and clear the clip-path afterwards.
+- Khmer line-height at least 1.8; no letter-spacing on Khmer; Khmer numerals in Khmer mode.
+- Parents written as "លោក X" on one line and "និងលោកស្រី Y" on the next.
+
+EXPERIENCE (in order)
+1. Envelope screen: a dark, blurred couple photo as background; above it "សិរីសួស្តីអាពាហ៍ពិពាហ៍ / The Wedding Invitation". A large realistic envelope (about 88% of phone width): back panel, the card inside, a front pocket made of left/right/bottom folded panels with soft edge shadows, a scalloped flap (clip-path) with the name logo and a gold scalloped line, a cream lining on the flap's back, and a shadow the closed flap casts on the pocket. A gold wax seal with an uneven poured edge, lit with SVG specular lighting, the crest pressed into it. Gentle idle float and tilt with pointer/phone tilt.
+   Opening (about 5.5 s, slow, "by hand"): seal pressed → lifted with growing shadow → set aside off screen; flap folds back 180° in 3D, its shadow lifting; card drawn out of the pocket at a slight angle while the envelope moves down a little; envelope dropped out of frame; card comes to the camera; fade through dark into the cover. Music starts on this tap.
+   3D notes: keep transform-style: preserve-3d on the stage and never put a CSS filter on a 3D parent (it flattens it). Layer order: back < card < pocket front < flap; once the flap passes 90° put it behind the card.
+2. Cover (merged with the hero, not a separate duplicate): full-screen darkened couple photo (optionally a subtle WebGL water/candle-flicker effect on desktop) with corner elements, crest, សិរីសួស្តីអាពាហ៍ពិពាហ៍, the name logo, English names, សូមគោរពអញ្ជើញ, a ថ្ងៃ | ទី | ខែ | ឆ្នាំ date row, the lunar date, venue, and "scroll" cue. Everything must fit one screen on desktop.
+3. Formal invitation words (…ដើម្បីប្រសិទ្ធពរជ័យសិរីសួស្តីមង្គល…) with an arched photo and both sets of parents (headings មាតាបិតាកូនកំលោះ / មាតាបិតាកូនក្រមុំ).
+4. The couple: scalloped photo frame, groom and bride names and parents.
+5. Countdown in Khmer numerals with a slow blessing marquee behind.
+6. Programme (heading only "កម្មវិធី"): a gold thread draws down as you scroll; each ritual's line icon draws and lights up.
+7. Love story: pinned sideways photo strip, background shifting from day to dusk, short poetic Khmer captions.
+8. Candlelight: full-screen photo, touching the water makes ripples and floats a small lotus lantern.
+9. Gallery: every photo in a masonry grid with a swipeable full-screen viewer.
+10. Venue: decorative crest, venue name, embedded Google Map (maps.google.com/maps?q=LAT,LNG&output=embed), Open Google Maps + Save to Calendar (.ics) buttons.
+11. Wedding gift (ចំណងដៃ): QR images always visible (no toggle), with a Save QR button.
+12. Thank you: candles light up one by one, "សូមអរគុណ", share buttons with each platform's logo and a short line (ផ្ញើតាម Telegram / Messenger / Facebook / ចម្លងតំណភ្ជាប់), and the name logo.
+Throughout: Khmer/English switch (Khmer first), music toggle, small name logo top-left, a dark gradient behind the top bar once scrolled so text never sits under the buttons. No RSVP form and no guest data collection unless I ask.
+
+MOTION
+- GSAP (ScrollTrigger, DrawSVG, MotionPath, CustomEase) + Lenis on desktop. Silky easing, one signature moment per section, never the same fade-up everywhere.
+- Mirror corner elements inside the SVG (transform on an inner <g>), never with CSS transform, or GSAP will undo the flip.
+- Canvases (WebGL water, embers) must size to their parent, check visibility each frame, and never resize themselves in a loop. Only start WebGL after the envelope opens; skip it on phones.
+- Keep shimmer animations to the few big gold elements; too many continuous animations make phones lag.
+- Respect prefers-reduced-motion; detect weak devices and use a lighter version.
+
+TECHNICAL
+- Vite static site. All wedding details in one data file (src/data/wedding.js) and all text in one i18n file (Khmer + English).
+- Script to convert photos to WebP (640/1280/2000 px), strip GPS/EXIF, and build the gallery list.
+- Link preview (og:image 1200×630 with absolute URL) showing the couple and names, Khmer og:title.
+- Responsive from a 320px phone to desktop, including sideways phones (use svh units, clamp(), container query units for the logo). No sideways scrolling anywhere.
+- Footer credit: "Design inspired by Someth Phay · somethphay.me" linking to https://somethphay.me
+
+QUALITY CHECK (do this before showing me)
+- Playwright screenshots of every section at 320×568, 390×844, 740×360 and 1280×800; open the envelope and capture the opening as a sequence of frames; look at them yourself.
+- Check: no console errors, no element wider than the screen, no clipped Khmer marks, canvases fill their sections, nothing overlaps the top bar, the cover fits one screen.
+- Fix everything you find, then show me screenshots.
+
+PROCESS
+1. Show me the envelope, its opening and the cover first for approval, then build the rest.
+2. Ask me for any missing detail; never invent names, dates or times.
+3. When done, push to a private GitHub repo and deploy on Vercel (ask me to sign in where needed), then give me the live link.
